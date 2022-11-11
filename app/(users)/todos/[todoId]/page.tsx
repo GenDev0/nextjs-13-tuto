@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import { Todo } from "../../../typings";
+import { Todo } from "../../../../typings";
 import { notFound } from "next/navigation";
 
 export const dynamicParams = true;
